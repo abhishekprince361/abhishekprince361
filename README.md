@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/abhishekprince361/abhishekprince361/blob/main/abhishek%20kumar.png)
+<img src="https://github.com/abhishekprince361/abhishekprince361/blob/main/abhishek%20kumar.png" width=100% height=100%>
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/abhishekprince361/abhishekprince361/blob/main/character-1.gif">
